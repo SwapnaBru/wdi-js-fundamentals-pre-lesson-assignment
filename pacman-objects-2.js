@@ -1,0 +1,11 @@
+var ghosts = {inky: 'Cyan', blinky: 'Red', pinky: 'Pink', clyde: 'Orange'};
+// console.log(ghosts);
+//
+// console.log(ghosts.inky);
+// console.log(ghosts.clyde);
+//
+// console.log(ghosts['inky']);
+// console.log(ghosts['clyde']);
+
+var ghostName = 'clyde';
+console.log(ghosts[ghostName]);
