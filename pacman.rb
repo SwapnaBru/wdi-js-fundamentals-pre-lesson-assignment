@@ -54,7 +54,17 @@
 # end
 #
 # puts " #{ghost} is the colour #{colour}"
+#
+# def ear_dot
+#  puts "MUNCH!"
+# end
 
-def ear_dot
- puts "MUNCH!"
-end
+
+
+
+# def addHighScore(highscorelist, playerinitials,score)
+#
+#   record = (player, score)
+#   highscoreslist << record
+#
+# end
